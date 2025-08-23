@@ -1,0 +1,16 @@
+# Datos grandes
+data_parquet/
+raw_zips/
+*.parquet
+*.zip
+
+# Manifests locales (estado)
+manifest_download.json
+manifest_process.json
+
+# Entornos/editor
+.venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
